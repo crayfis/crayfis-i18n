@@ -10,3 +10,5 @@ For a locale, e.g. `de`, running the below will add any strings from HTML templa
 ```
 python manage.py makemessages -l de -e html
 ```
+
+Links to location codes https://developer.chrome.com/webstore/i18n
