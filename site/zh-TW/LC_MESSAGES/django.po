@@ -1,0 +1,257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-26 08:54-0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: monitor/templates/monitor/map.html:63
+msgid "Network Map"
+msgstr ""
+
+#: monitor/templates/monitor/map.html:70
+msgid "National Ranking"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/base.html:8
+msgid "My Account"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/base.html:12
+msgid "E-mail Addresses"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/base.html:15
+#: templates/bootstrap/allauth/account/password_change.html:6
+#: templates/bootstrap/allauth/account/password_change.html:14
+#: templates/bootstrap/allauth/account/password_reset_from_key.html:7
+#: templates/bootstrap/allauth/account/password_reset_from_key.html:10
+#: templates/bootstrap/allauth/account/password_reset_from_key.html:22
+msgid "Change Password"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/base.html:20
+#: templates/bootstrap/allauth/socialaccount/connections.html:5
+msgid "Connected Accounts"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:7
+#: templates/bootstrap/allauth/socialaccount/connections.html:34
+msgid "Account"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:14
+msgid "The following e-mail addresses are associated to your account:"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:23
+msgid "E-mail"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:26
+msgid "Status"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:41
+msgid "Verified"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:43
+msgid "Unverified"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:45
+msgid "Primary"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:53
+msgid "Make Primary"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:54
+msgid "Re-send Verification"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:55
+#: templates/bootstrap/allauth/socialaccount/connections.html:58
+msgid "Remove"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:62
+msgid "Warning:"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:62
+msgid ""
+"You currently do not have any e-mail address set up. You should really add "
+"an e-mail address so you can receive notifications, reset your password, etc."
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:67
+msgid "Add E-mail Address"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:73
+msgid "Add E-mail"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email.html:84
+msgid "Do you really want to remove the selected e-mail address?"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email_confirm.html:7
+#: templates/bootstrap/allauth/account/email_confirm.html:11
+msgid "Confirm E-mail Address"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email_confirm.html:17
+#, python-format
+msgid ""
+"Please confirm that <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail "
+"address for user %(user_display)s."
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email_confirm.html:21
+msgid "Confirm"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/email_confirm.html:28
+#, python-format
+msgid ""
+"This e-mail confirmation link expired or is invalid. Please <a href="
+"\"%(email_url)s\">issue a new e-mail confirmation request</a>."
+msgstr ""
+
+#: templates/bootstrap/allauth/account/login.html:8
+#: templates/bootstrap/allauth/account/login.html:13
+#: templates/bootstrap/allauth/account/login.html:42
+msgid "Sign In"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/login.html:16
+#, python-format
+msgid ""
+"Please sign in with one\n"
+"of your existing third-party accounts. Or, <a href=\"%(signup_url)s\">sign "
+"up</a> \n"
+"for a CRAYFIS account and sign in\n"
+"below:"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/login.html:27
+msgid "or"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/login.html:43
+msgid "Forgot Password?"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/logout.html:6
+#: templates/bootstrap/allauth/account/logout.html:9
+#: templates/bootstrap/allauth/account/logout.html:18
+msgid "Sign Out"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/logout.html:11
+msgid "Are you sure you want to sign out?"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_reset.html:7
+#: templates/bootstrap/allauth/account/password_reset.html:11
+msgid "Password Reset"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_reset.html:16
+msgid ""
+"Forgotten your password? Enter your e-mail address below, and we'll send you "
+"an e-mail allowing you to reset it."
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_reset.html:22
+msgid "Reset My Password"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_reset.html:26
+msgid "Please contact us if you have any trouble resetting your password."
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_reset_from_key.html:10
+msgid "Bad Token"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_reset_from_key.html:14
+#, python-format
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</"
+"a>."
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_reset_from_key.html:26
+msgid "Your password is now changed."
+msgstr ""
+
+#: templates/bootstrap/allauth/account/password_set.html:6
+#: templates/bootstrap/allauth/account/password_set.html:14
+msgid "Set Password"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/signup.html:7
+#: templates/bootstrap/allauth/socialaccount/signup.html:6
+msgid "Signup"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/signup.html:10
+#: templates/bootstrap/allauth/account/signup.html:21
+#: templates/bootstrap/allauth/socialaccount/signup.html:9
+#: templates/bootstrap/allauth/socialaccount/signup.html:21
+msgid "Sign Up"
+msgstr ""
+
+#: templates/bootstrap/allauth/account/signup.html:12
+#, python-format
+msgid ""
+"Already have an account? Then please <a href=\"%(login_url)s\">sign in</a>."
+msgstr ""
+
+#: templates/bootstrap/allauth/socialaccount/connections.html:11
+msgid ""
+"You can sign in to your account using any of the following third party "
+"accounts:"
+msgstr ""
+
+#: templates/bootstrap/allauth/socialaccount/connections.html:31
+msgid "Provider"
+msgstr ""
+
+#: templates/bootstrap/allauth/socialaccount/connections.html:67
+msgid "None!"
+msgstr ""
+
+#: templates/bootstrap/allauth/socialaccount/connections.html:67
+msgid ""
+"You currently have no social network accounts connected to this account."
+msgstr ""
+
+#: templates/bootstrap/allauth/socialaccount/connections.html:71
+msgid "Add a 3rd Party Account"
+msgstr ""
+
+#: templates/bootstrap/allauth/socialaccount/signup.html:11
+#, python-format
+msgid ""
+"You are about to use your %(provider_name)s account to login to \n"
+"%(site_name)s. As a final step, please complete the following form:"
+msgstr ""
