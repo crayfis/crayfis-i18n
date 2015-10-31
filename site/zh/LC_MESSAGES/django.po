@@ -83,6 +83,7 @@ msgstr ""
 #: monitor/templates/monitor/footer.html:3
 msgid "Follow us"
 msgstr ""
+"跟随我们"
 
 #: monitor/templates/monitor/howto-android.html:16
 msgid ""
@@ -146,29 +147,35 @@ msgstr ""
 #: monitor/templates/monitor/index.html:35
 msgid "CRAYFIS"
 msgstr ""
+"用智能手机探测宇宙射线"
 
 #: monitor/templates/monitor/index.html:20
 #: monitor/templates/monitor/index.html:36
 msgid "The app that turns your phone into a cosmic ray detector."
 msgstr ""
+"这个应用程序将你的手机变成一个宇宙射线探测器。"
 
 #: monitor/templates/monitor/index.html:36
 msgid "No joke."
 msgstr ""
+"不是开玩笑。
 
 #: monitor/templates/monitor/index.html:37
 msgid ""
 "<p>Join the first and only crowd-sourced cosmic ray detector. You might just "
 "help discover something big. <a href=\"/about\">Learn more about it</a></p>"
 msgstr ""
+"<p>加入第一个也是唯一的人群来源的宇宙射线探测器队伍。你可能 "
+"帮助发现一些重大的事情。 <a href=\"/about\">了解更多</a></p>"
 
 #: monitor/templates/monitor/index.html:59
 msgid "Join our legion of beta testers"
 msgstr ""
+"加入我们的测试人员的军团。"
 
 #: monitor/templates/monitor/index.html:60
 msgid "Name"
-msgstr ""
+msgstr "姓名"
 
 #: monitor/templates/monitor/index.html:64
 #, fuzzy
@@ -178,7 +185,7 @@ msgstr "电子邮箱地址"
 
 #: monitor/templates/monitor/index.html:71
 msgid "Operating system"
-msgstr ""
+msgstr "操作系统"
 
 #: monitor/templates/monitor/index.html:82
 msgid ""
@@ -190,6 +197,13 @@ msgid ""
 "class=\"second addthis_button_twitter btn btn-lg btn-default\"><span><i "
 "class=\"fa fa-twitter fa-lg\"></i> tweet about it</span></a> </div> </div>"
 msgstr ""
+"<h2>传播这个词语：</h2> <p>帮助我们达到一百万用户的目标 "
+"通过分享给你的朋友： </p> <div class=\"row\"> <div class=\"col-lg-6 "
+"col-md-6\"> <a href=\"#\" class=\"first addthis_button_facebook btn btn-lg "
+"btn-default\"><span><i class=\"fa fa-facebook fa-lg\"></i> 分享到 "
+"脸谱</span></a> </div> <div class=\"col-lg-6 col-md-6\"> <a href=\"#\" "
+"class=\"second addthis_button_twitter btn btn-lg btn-default\"><span><i "
+"class=\"fa fa-twitter fa-lg\"></i>分享到推特</span></a> </div> </div>"
 
 #: monitor/templates/monitor/index.html:132
 #: monitor/templates/monitor/map.html:65
@@ -202,11 +216,11 @@ msgstr ""
 
 #: monitor/templates/monitor/index.html:152
 msgid "Unique Devices"
-msgstr ""
+msgstr "独特的设备"
 
 #: monitor/templates/monitor/index.html:155
 msgid "Candidate Hits"
-msgstr ""
+msgstr "候选点击"
 
 #: monitor/templates/monitor/map.html:73
 msgid "National Ranking"
@@ -214,19 +228,19 @@ msgstr "国家排名"
 
 #: monitor/templates/monitor/navbar.html:21
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: monitor/templates/monitor/navbar.html:22
 msgid "Contact"
-msgstr ""
+msgstr "联系"
 
 #: monitor/templates/monitor/navbar.html:23
 msgid "Map"
-msgstr ""
+msgstr "地图"
 
 #: monitor/templates/monitor/navbar.html:24
 msgid "Blog"
-msgstr ""
+msgstr "博客"
 
 #: monitor/templates/monitor/navbar.html:25
 msgid "Paper"
@@ -234,15 +248,15 @@ msgstr ""
 
 #: monitor/templates/monitor/navbar.html:29
 msgid "My Devices"
-msgstr ""
+msgstr "我的设备"
 
 #: monitor/templates/monitor/navbar.html:30
 msgid "Logout"
-msgstr ""
+msgstr "登出"
 
 #: monitor/templates/monitor/navbar.html:32
 msgid "Login"
-msgstr ""
+msgstr "登入"
 
 #: templates/bootstrap/allauth/account/base.html:8
 msgid "My Account"
