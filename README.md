@@ -1,7 +1,6 @@
 # CRAYFIS Translations
 
-
-TODO write me.
+Translator instructions: please fork this repository, and then edit the `django.po` for your locale. The file format is very simple and it is probably easiest to learn from the examples which are already in the file. Basically for each English `"msgid"`, put your translation in the following `"msgstr"`.
 
 ## Site
 
