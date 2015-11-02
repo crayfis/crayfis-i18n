@@ -197,7 +197,7 @@ msgid ""
 "class=\"second addthis_button_twitter btn btn-lg btn-default\"><span><i "
 "class=\"fa fa-twitter fa-lg\"></i> tweet about it</span></a> </div> </div>"
 msgstr ""
-"<h2>传播这个词语：</h2> <p>帮助我们达到一百万用户的目标 "
+"<h2>广而告之：</h2> <p>帮助我们达到一百万用户的目标 "
 "通过分享给你的朋友： </p> <div class=\"row\"> <div class=\"col-lg-6 "
 "col-md-6\"> <a href=\"#\" class=\"first addthis_button_facebook btn btn-lg "
 "btn-default\"><span><i class=\"fa fa-facebook fa-lg\"></i> 分享到 "
@@ -212,7 +212,7 @@ msgstr "网络地图"
 
 #: monitor/templates/monitor/index.html:148
 msgid "Total Exposure"
-msgstr ""
+msgstr "完全暴露"
 
 #: monitor/templates/monitor/index.html:152
 msgid "Unique Devices"
@@ -220,7 +220,7 @@ msgstr "独特的设备"
 
 #: monitor/templates/monitor/index.html:155
 msgid "Candidate Hits"
-msgstr "候选点击"
+msgstr "像素记录的候选事件"
 
 #: monitor/templates/monitor/map.html:73
 msgid "National Ranking"
@@ -244,7 +244,7 @@ msgstr "博客"
 
 #: monitor/templates/monitor/navbar.html:25
 msgid "Paper"
-msgstr ""
+msgstr "论文"
 
 #: monitor/templates/monitor/navbar.html:29
 msgid "My Devices"
@@ -357,6 +357,8 @@ msgid ""
 "Please confirm that <a href=\"mailto:%(email)s\">%(email)s</a> is an e-mail "
 "address for user %(user_display)s."
 msgstr ""
+"请确认这个 <a href=\"mailto:%(email)s\">%(email)s</a> 是你所使用的 "
+"邮箱地址 %(user_display)s."
 
 #: templates/bootstrap/allauth/account/email_confirm.html:21
 msgid "Confirm"
@@ -368,6 +370,8 @@ msgid ""
 "This e-mail confirmation link expired or is invalid. Please <a href="
 "\"%(email_url)s\">issue a new e-mail confirmation request</a>."
 msgstr ""
+"此电子邮件确认链接过期或无效。请<a href="
+"\"%(email_url)s\">重新发送电子邮箱确认请求</a>."
 
 #: templates/bootstrap/allauth/account/login.html:8
 #: templates/bootstrap/allauth/account/login.html:14
@@ -384,6 +388,11 @@ msgid ""
 "for a CRAYFIS account and sign in\n"
 "below:"
 msgstr ""
+"请登录，通过\n"
+"一个您现有的第三方帐户。或者, <a href=\"%(signup_url)s\">注 "
+"测</a> \n"
+"为了一个 CRAYFIS 账户并登录\n"
+"below:"
 
 #: templates/bootstrap/allauth/account/login.html:29
 msgid "or"
@@ -435,6 +444,9 @@ msgid ""
 "used.  Please request a <a href=\"%(passwd_reset_url)s\">new password reset</"
 "a>."
 msgstr ""
+"“密码重置链接无效，可能是因为它已经被使用。 "
+" 请重新请求<a href=\"%(passwd_reset_url)s\">密码重置</"
+"a>."
 
 #: templates/bootstrap/allauth/account/password_reset_from_key.html:26
 msgid "Your password is now changed."
@@ -462,6 +474,7 @@ msgstr "登录"
 msgid ""
 "Already have an account? Then please <a href=\"%(login_url)s\">sign in</a>."
 msgstr ""
+"已经有账户了？ 那么请 <a href=\"%(login_url)s\">登录</a>."
 
 #: templates/bootstrap/allauth/socialaccount/connections.html:11
 msgid ""
@@ -492,3 +505,5 @@ msgid ""
 "You are about to use your %(provider_name)s account to login to \n"
 "%(site_name)s. As a final step, please complete the following form:"
 msgstr ""
+"你将用你的 %(provider_name)s 账户登录到 \n"
+"%(site_name)s. 最后一步, 请完成下面的表格："
